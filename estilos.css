@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: #8b8b8bcc   ;
+}
+h1{
+    color: #025157
+}
+button{
+    color: honeydew;
+    background-color: #025157;
+    border-radius: 5px;
+}
